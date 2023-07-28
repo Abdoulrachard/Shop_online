@@ -22,7 +22,7 @@ header {
     justify-content: space-between;
     padding: 10px 8%;
     height: 65px;
-    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+    
 
 }
 header .logo {
@@ -89,7 +89,7 @@ nav ul li a {
     justify-content: space-around;
     flex-wrap: wrap;
 }
-.col-2{flex-basis: 50%; min-width: 300px ;}
+.col-2{flex-basis: 50%; min-width: 500px ;}
     
 
 .col-2 img {
